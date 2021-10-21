@@ -1,0 +1,13 @@
+h1 {
+    background-color: white;
+    color: #581eb2;
+}
+
+body {
+    background: rgb(88,30,178);
+background: linear-gradient(222deg, rgba(88,30,178,1) 35%, rgba(0,0,8,1) 100%);
+}
+
+.heroku {
+    background-image: url"https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j.png"
+}
