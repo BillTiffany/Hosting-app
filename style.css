@@ -1,6 +1,7 @@
 h1 {
     background-color: white;
     color: #581eb2;
+    text-shadow: 2px 7px 2px rgba(150, 150, 150, 1);
 }
 
 body {
